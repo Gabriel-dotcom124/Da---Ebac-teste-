@@ -1,0 +1,1 @@
+print("Olá, Meus amigos")
